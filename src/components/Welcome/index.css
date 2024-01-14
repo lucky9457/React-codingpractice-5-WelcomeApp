@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.main {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
+.hh {
+  color: darkgoldenrod;
+  font-size: 30px;
+}
+.pp {
+  color: white;
+  font-size: 15px;
+}
+.bb {
+  background-color: white;
+  color: black;
+  border: 0px;
+  border-radius: 10px;
+  padding: 10px;
+}
